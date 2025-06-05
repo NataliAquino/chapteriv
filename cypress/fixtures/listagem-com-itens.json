@@ -1,0 +1,32 @@
+[
+    {
+        "firstName": "Agilizei",
+        "lastName": "Bootcamp",
+        "adress": "Sem endereço",
+        "emailAdress": "test@mail.com",
+        "radioGender": "m",
+        "checks": [
+            "Netflix",
+            "Livros"
+        ],
+        "selectCountries": "Hong Kong",
+        "selectYears": "2018",
+        "selectMonths": "Abril",
+        "pwd": "Aluno@2021"
+    },
+    {
+        "firstName": "Agilizei",
+        "lastName": "Spark",
+        "adress": "Sem endereço",
+        "emailAdress": "test@test.com",
+        "radioGender": "n",
+        "checks": [
+            "Netflix",
+            "Dormir"
+        ],
+        "selectCountries": "Hong Kong",
+        "selectYears": "2018",
+        "selectMonths": "Abril",
+        "pwd": "Aluno@2021"
+    }
+]
